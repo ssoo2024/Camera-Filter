@@ -1,6 +1,8 @@
 # Aurora Camera Filter Aplication (Core)
 team git -> https://github.com/Auuroora
-Aurora_영상.mp4 참
+
+Aurora_영상.mp4 참고
+
 ## ROGO
 <div>
 <img width="300" src="https://user-images.githubusercontent.com/53610690/96586905-984b0f00-131c-11eb-8b2f-4605178b69f8.png">
