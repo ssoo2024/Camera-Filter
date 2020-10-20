@@ -1,0 +1,3 @@
+/Users/sskim/Documents/VScode/aurora_core/CMakeFiles/rebuild_cache.dir
+/Users/sskim/Documents/VScode/aurora_core/CMakeFiles/edit_cache.dir
+/Users/sskim/Documents/VScode/aurora_core/CMakeFiles/aurora_core.dir
